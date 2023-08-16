@@ -1,5 +1,7 @@
 # brezovec_topography
 
+[![DOI](https://zenodo.org/badge/679333196.svg)](https://zenodo.org/badge/latestdoi/679333196)
+
 Custom code associated with:
 
 The brain-wide topography of locomotion in Drosophila
