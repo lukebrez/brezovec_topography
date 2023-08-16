@@ -4,7 +4,7 @@
 
 Custom code associated with:
 
-The brain-wide topography of locomotion in Drosophila
+Mapping the neural dynamics of locomotion across the Drosophila brain
 
 Luke E. Brezovec, Andrew B. Berger, Yukun A. Hao, Feng Chen, Shaul Druckmann, Tom R. Clandinin*
 
